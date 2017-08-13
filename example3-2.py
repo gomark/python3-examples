@@ -28,8 +28,5 @@ print (fibo.__name__)
 print ('path=')
 print (*sys.path)
 print (sys.version_info)
-<<<<<<< HEAD
-print ('now, my versi')
-=======
 print ('now, my version..?')
->>>>>>> parent of 02fc144... newer version again
+
