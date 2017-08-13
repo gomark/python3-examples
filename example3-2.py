@@ -29,4 +29,4 @@ print ('path=')
 print (*sys.path)
 print (sys.version_info)
 print ('now, my version..?')
-
+print ('first release')
